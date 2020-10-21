@@ -13,7 +13,7 @@ Bai 1 - Mun 1 - E1
 CEP:11111-111 Tel (11) 1111-1111
 Obs 1
 CNPJ: 11.111.111/1111-11
-IE: 123456789```
+IE: 123456789
 ------------------------------
 25/11/2020 10:30:40V CCF:021784 COO: 035804
    CUPOM FISCAL   
@@ -30,7 +30,7 @@ OPERADOR: 494715
 ------------------------------
 SWEDA IF ST200
 ECF-IF VERSÃO: 01.00.05 ECF: 067
-FAB: SW031300000000045629
+FAB: SW031300000000045629```
 
 
 Submeta uma URL de um repositório Github com o código da resposta (em uma das três linguagens).
