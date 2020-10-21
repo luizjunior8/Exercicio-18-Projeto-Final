@@ -7,13 +7,13 @@ Você criaria uma ou mais classes para representar esses conceitos? Ou utilizari
 
 Atualize o código para gerar o seguinte texto de cupom fiscal:
 
-```Loja 1```
-Log 1, 10 C1
-Bai 1 - Mun 1 - E1
-CEP:11111-111 Tel (11) 1111-1111
-Obs 1
-CNPJ: 11.111.111/1111-11
-IE: 123456789
+> Loja 1
+> Log 1, 10 C1
+> Bai 1 - Mun 1 - E1
+> CEP:11111-111 Tel (11) 1111-1111
+> Obs 1
+> CNPJ: 11.111.111/1111-11
+> IE: 123456789
 ------------------------------
 25/11/2020 10:30:40V CCF:021784 COO: 035804
    CUPOM FISCAL   
