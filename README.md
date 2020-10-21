@@ -30,7 +30,7 @@ OPERADOR: 494715
 ------------------------------
 SWEDA IF ST200
 ECF-IF VERSÃO: 01.00.05 ECF: 067
-FAB: SW031300000000045629```
+FAB: SW031300000000045629
 
 
 Submeta uma URL de um repositório Github com o código da resposta (em uma das três linguagens).
